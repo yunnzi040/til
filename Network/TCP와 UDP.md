@@ -1,4 +1,5 @@
 # TCP와 UDP 비교
+<img width="2768" height="3337" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/1e73c78e-06ee-41c6-b669-89bb9855d5cc" />
 
 ## 목차
 - [TCP (Transmission Control Protocol)](#tcp-transmission-control-protocol)
